@@ -1,0 +1,2 @@
+Guarda aquí las capturas reales de las pruebas de la aplicación.
+No se incluyen capturas ficticias. Consulta la sección 8 del README.md.
