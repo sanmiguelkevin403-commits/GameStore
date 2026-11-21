@@ -1,6 +1,6 @@
 # GameStore — Gestor de videojuegos
 
-**Estudiante:** [Escribe aquí tu nombre completo]  
+**Estudiante:** [kevin daniel sanmiguel ortiz]  
 **Asignatura:** Programación con C# y .NET  
 **Tipo de proyecto:** Aplicación de escritorio
 
